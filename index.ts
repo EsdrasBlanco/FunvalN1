@@ -10,7 +10,7 @@ let version: number = 11;
 let userName: string = "Juan";
 
 const cartel: string = `Bienvenido a ${systemName} version ${version}
-${userName} disfruta la experiencia`;
+disfruta la experiencia ${userName}`;
 
 console.log(cartel);
 
